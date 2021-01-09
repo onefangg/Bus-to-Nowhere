@@ -19,3 +19,5 @@ You can also preview the routes that the friendly bot has found for you.
 ![routes](https://raw.githubusercontent.com/onefangg/Bus-to-Nowhere/main/examples/route.JPG)
 
 You can then get more details about what bus service to take, and which stops to alight.
+
+Telegram handle: @BusToNowhereBot
