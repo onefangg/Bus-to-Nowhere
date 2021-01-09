@@ -20,4 +20,5 @@ You can also preview the routes that the friendly bot has found for you.
 
 You can then get more details about what bus service to take, and which stops to alight.
 
-Telegram handle: @BusToNowhereBot
+### Telegram handle
+@BusToNowhereBot
